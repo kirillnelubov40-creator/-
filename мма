@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой первый сайт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #222;
+            color: #fff;
+            padding: 2rem;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            margin: 0;
+        }
+        .content {
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.8rem;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Мое захоплення: MMA</h1>
+    </header>
+
+    <main>
+        <section class="content">
+            <h2>О смешанных единоборствах</h2>
+            <p>Добро пожаловать на мой первый сайт! Здесь я буду рассказывать о своем главном хобби — <strong>ММА (Mixed Martial Arts)</strong>.</p>
+            
+            <h3>Почему мне это нравится:</h3>
+            <ul>
+                <li>Разнообразие техник (бокс, борьба, джиу-джитсу).</li>
+                <li>Дисциплина и закалка характера.</li>
+                <li>Невероятная атлетичность бойцов.</li>
+            </ul>
+
+            <p>Этот вид спорта учит никогда не сдаваться и всегда идти к своей цели.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Мой первый сайт</p>
+    </footer>
+
+</body>
+</html>
